@@ -1,0 +1,11 @@
+{
+  "appId": "com.oscar.caudal",
+  "appName": "Caudal",
+  "webDir": "www",
+  "backgroundColor": "#0c0a12",
+  "android": { "backgroundColor": "#0c0a12" },
+  "plugins": {
+    "CapacitorHttp": { "enabled": true },
+    "SplashScreen": { "launchShowDuration": 800, "backgroundColor": "#0c0a12" }
+  }
+}
